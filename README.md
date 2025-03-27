@@ -1,4 +1,3 @@
-# Fine-Tuning-DeepSeek-R1-with-LoRA-for-Medical-Reasoning
 # Fine-Tuning DeepSeek-R1-Distill-Llama-8B on Medical Chain-of-Thought Dataset  
 
 🚀 **Enhancing medical reasoning capabilities using LoRA and parameter-efficient fine-tuning.**  
